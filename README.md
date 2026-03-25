@@ -1,9 +1,3 @@
-💻 I’m a passionate developer exploring web development and intelligent systems.  
-🤖 Currently diving into AI/ML with a focus on Agentic AI and autonomous workflows.  
-🚀 I build projects using HTML, CSS, JavaScript, and Python.  
-🤝 Open to collaborating on AI-driven and impactful tech projects.  
-📚 Always learning, building, and evolving.
-
 
 # 💫 About Me:
 💻 I’m a passionate developer exploring web development and intelligent systems.  <br>🤖 Currently diving into AI/ML with a focus on Agentic AI and autonomous workflows.  <br>🚀 I build projects using HTML, CSS, JavaScript, and Python.  <br>🤝 Open to collaborating on AI-driven and impactful tech projects.  <br>📚 Always learning, building, and evolving.
